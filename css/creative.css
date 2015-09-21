@@ -3,6 +3,55 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+ #portfolio > div > div > div:nth-child(1) > a > img{
+    border:solid;
+    border-color: white;
+    height:200px;
+    width:400px;
+ }
+ #portfolio > div > div > div:nth-child(2) > a > img{
+    border:solid;
+    border-color: white;
+    height:200px;
+    width:400px;
+ }
+ #portfolio > div > div > div:nth-child(3) > a > img{
+    border:solid;
+    border-color: white;
+    height:200px;
+    width:400px;
+ }
+ #portfolio > div > div > div:nth-child(4) > a > img{
+    border:solid;
+    border-color: white;
+    height:200px;
+    width:400px;
+ }
+ #portfolio > div > div > div:nth-child(5) > a > img{
+    border:solid;
+    border-color: white;
+    height:200px;
+    width:400px;
+ }
+ #portfolio > div > div > div:nth-child(6) > a > img{
+    border:solid;
+    border-color: white;
+    height:200px;
+    width:400px;
+ }
+ #portfolio > div > div > div:nth-child(7) > a > img{
+    border:solid;
+    border-color: white;
+    height:200px;
+    width:400px;
+ }
+
+ #portfolio > div > div > div:nth-child(7) > a > div{
+    border:solid;
+    border-color: white;
+    height:200px;
+    width:400px;
+ }
 
 html,
 body {
